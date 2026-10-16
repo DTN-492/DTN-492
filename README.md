@@ -1,16 +1,17 @@
-## Hi there 👋
+***Just a former Mathematical Economics student who is interested in exploring data***
+# **Technical skills:**
+- Excel: Advanced functions, Power Query, VBA
+- SQL: retrieve and manipulate data
+- PowerBI: Power Query, build data model, visualize
+- Python: numpy, pandas, matplotlib, seaborn, scikit-learn
+- Machine Learning: Supervised & Unsupervised Learning
 
-<!--
-**DTN-492/DTN-492** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Project:
+<a href="https://github.com/DTN-492/SQL_Ecommerce_EDA/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DTN-492&repo=SQL_Ecommerce_EDA&theme=merko" />
+</a>
+<a href="https://github.com/DTN-492/ML_Churn_Predict_and_Segmentation/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DTN-492&repo=ML_Churn_Predict_and_Segmentation&theme=merko" />
+</a>
