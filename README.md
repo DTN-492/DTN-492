@@ -14,6 +14,6 @@ Project:
 <a href="https://github.com/DTN-492/ML_Churn_Predict_and_Segmentation/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DTN-492&repo=ML_Churn_Predict_and_Segmentation&theme=merko" />
 </a>
-<a href="https://github.com/DTN-492/Marketing_Campaign_Report/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DTN-492&repo=Marketing_Campaign_Report&theme=merko" />
+<a href="https://github.com/DTN-492/PowerBI_Marketing_Campaign_Report/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DTN-492&repo=PowerBI_Marketing_Campaign_Report&theme=merko" />
 </a>
