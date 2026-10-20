@@ -20,3 +20,6 @@ Project:
 <a href="https://github.com/DTN-492/Sales_Performance/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DTN-492&repo=Sales_Performance&theme=merko" />
 </a>
+<a href="https://github.com/DTN-492/PowerBI_HR_Workforce_Report/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DTN-492&repo=PowerBI_HR_Workforce_Report&theme=merko" />
+</a>
