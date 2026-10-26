@@ -8,7 +8,7 @@ Data Analyst with a background in managing sales team performance and operations
 
 # **Technical skills:**
 - Excel: Advanced functions, Power Query, VBA
-- SQL: retrieve and manipulate data
+- SQL: Retrieve and manipulate data
 - PowerBI: Power Query, build data model, visualize
 - Python: numpy, pandas, matplotlib, seaborn, scikit-learn
 - Machine Learning: Supervised & Unsupervised Learning
