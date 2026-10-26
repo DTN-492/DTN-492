@@ -4,6 +4,7 @@
 📌Hanoi | 📧 ngdt492@gmail.com
 
 # About me
+Data Analyst with a background in managing sales team performance and operations in SME banking. Experienced with Excel, Power BI, SQL, and Python for reporting and predictive model design. Focused on using data to inform business decisions and address sales performance challenges.
 
 # **Technical skills:**
 - Excel: Advanced functions, Power Query, VBA
@@ -12,7 +13,7 @@
 - Python: numpy, pandas, matplotlib, seaborn, scikit-learn
 - Machine Learning: Supervised & Unsupervised Learning
 
-Project:
+# Project:
 
 <a href="https://github.com/DTN-492/SQL_Ecommerce_EDA/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DTN-492&repo=SQL_Ecommerce_EDA&theme=merko" />
