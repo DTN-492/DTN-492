@@ -1,4 +1,10 @@
-***Just a former Mathematical Economics student who is interested in exploring data***
+# Nguyen Duc Trung
+**Data Analyst | Bank Operations Background**
+
+📌Hanoi | 📧 ngdt492@gmail.com
+
+# About me
+
 # **Technical skills:**
 - Excel: Advanced functions, Power Query, VBA
 - SQL: retrieve and manipulate data
